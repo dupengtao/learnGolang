@@ -36,18 +36,38 @@
       <file leaf-file-name="LearnControl.go" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/LearnControl.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="408" max-vertical-offset="2112">
-              <caret line="83" column="18" selection-start-line="83" selection-start-column="18" selection-end-line="83" selection-end-column="18" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="1452" max-vertical-offset="2112">
+              <caret line="25" column="15" selection-start-line="25" selection-start-column="15" selection-end-line="25" selection-end-column="15" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LearnEnumeration.go" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="LearnArray.go" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/LearnArray.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.94255877" vertical-offset="651" max-vertical-offset="1232">
+              <caret line="46" column="9" selection-start-line="46" selection-start-column="9" selection-end-line="46" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LearnEnumeration.go" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/LearnEnumeration.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.140625" vertical-offset="188" max-vertical-offset="572">
-              <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="572">
+              <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LearnVar.go" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/LearnVar.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="562" max-vertical-offset="1078">
+              <caret line="32" column="14" selection-start-line="32" selection-start-column="14" selection-end-line="32" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -77,6 +97,7 @@
         <option value="$PROJECT_DIR$/src/LearnEnumeration.go" />
         <option value="$PROJECT_DIR$/src/LearnPointer.go" />
         <option value="$PROJECT_DIR$/src/LearnControl.go" />
+        <option value="$PROJECT_DIR$/src/LearnArray.go" />
       </list>
     </option>
   </component>
@@ -164,25 +185,7 @@
     <property name="FullScreen" value="false" />
     <property name="LayoutCode.rearrangeEntriesGoogle Go Lang" value="false" />
   </component>
-  <component name="RunManager" selected="Go Application.LearnControl.go">
-    <configuration default="false" name="HelloWorld.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
-      <option name="name" value="HelloWorld.go" />
-      <option name="saveOutputToFile" value="false" />
-      <option name="showConsoleOnStdErr" value="false" />
-      <option name="showConsoleOnStdOut" value="false" />
-      <option name="scriptName" value="$PROJECT_DIR$/src/HelloWorld.go" />
-      <option name="scriptArguments" value="" />
-      <option name="builderArguments" value="" />
-      <option name="goBuildBeforeRun" value="false" />
-      <option name="goOutputDir" value="" />
-      <option name="workingDir" value="D:\gitcode\github\go\learnGolang" />
-      <option name="envVars" value="" />
-      <option name="goVetEnabled" value="false" />
-      <module name="learnGolang" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Go Application.LearnArray.go">
     <configuration default="false" name="LearnVar.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
       <option name="name" value="LearnVar.go" />
       <option name="saveOutputToFile" value="false" />
@@ -243,6 +246,24 @@
       <option name="showConsoleOnStdErr" value="false" />
       <option name="showConsoleOnStdOut" value="false" />
       <option name="scriptName" value="$PROJECT_DIR$/src/LearnControl.go" />
+      <option name="scriptArguments" value="" />
+      <option name="builderArguments" value="" />
+      <option name="goBuildBeforeRun" value="false" />
+      <option name="goOutputDir" value="" />
+      <option name="workingDir" value="D:\gitcode\github\go\learnGolang" />
+      <option name="envVars" value="" />
+      <option name="goVetEnabled" value="false" />
+      <module name="learnGolang" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="LearnArray.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
+      <option name="name" value="LearnArray.go" />
+      <option name="saveOutputToFile" value="false" />
+      <option name="showConsoleOnStdErr" value="false" />
+      <option name="showConsoleOnStdOut" value="false" />
+      <option name="scriptName" value="$PROJECT_DIR$/src/LearnArray.go" />
       <option name="scriptArguments" value="" />
       <option name="builderArguments" value="" />
       <option name="goBuildBeforeRun" value="false" />
@@ -506,19 +527,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Go Application.HelloWorld.go" />
-      <item index="1" class="java.lang.String" itemvalue="Go Application.LearnVar.go" />
-      <item index="2" class="java.lang.String" itemvalue="Go Application.LearnEnumeration.go" />
-      <item index="3" class="java.lang.String" itemvalue="Go Application.LearnPointer.go" />
-      <item index="4" class="java.lang.String" itemvalue="Go Application.LearnControl.go" />
+      <item index="0" class="java.lang.String" itemvalue="Go Application.LearnVar.go" />
+      <item index="1" class="java.lang.String" itemvalue="Go Application.LearnEnumeration.go" />
+      <item index="2" class="java.lang.String" itemvalue="Go Application.LearnPointer.go" />
+      <item index="3" class="java.lang.String" itemvalue="Go Application.LearnControl.go" />
+      <item index="4" class="java.lang.String" itemvalue="Go Application.LearnArray.go" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Go Application.LearnControl.go" />
-        <item index="1" class="java.lang.String" itemvalue="Go Application.LearnPointer.go" />
-        <item index="2" class="java.lang.String" itemvalue="Go Application.LearnEnumeration.go" />
-        <item index="3" class="java.lang.String" itemvalue="Go Application.LearnVar.go" />
-        <item index="4" class="java.lang.String" itemvalue="Go Application.HelloWorld.go" />
+        <item index="0" class="java.lang.String" itemvalue="Go Application.LearnArray.go" />
+        <item index="1" class="java.lang.String" itemvalue="Go Application.LearnControl.go" />
+        <item index="2" class="java.lang.String" itemvalue="Go Application.LearnPointer.go" />
+        <item index="3" class="java.lang.String" itemvalue="Go Application.LearnEnumeration.go" />
+        <item index="4" class="java.lang.String" itemvalue="Go Application.LearnVar.go" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -536,12 +557,12 @@
       <created>1404578829714</created>
       <updated>1404578829714</updated>
       <workItem from="1404578832157" duration="1031000" />
-      <workItem from="1404622876181" duration="7492000" />
+      <workItem from="1404622876181" duration="10088000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8523000" />
+    <option name="totallyTimeSpent" value="11119000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="0" />
@@ -566,7 +587,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24962063" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32847896" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33009708" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -604,18 +625,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/LearnVar.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.0" vertical-offset="408" max-vertical-offset="1078">
-          <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/HelloWorld.go">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.515625" vertical-offset="0" max-vertical-offset="384">
           <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LearnEnumeration.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="572">
+          <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LearnVar.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="562" max-vertical-offset="1078">
+          <caret line="32" column="14" selection-start-line="32" selection-start-column="14" selection-end-line="32" selection-end-column="14" />
           <folding />
         </state>
       </provider>
@@ -630,16 +659,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/LearnControl.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="408" max-vertical-offset="2112">
-          <caret line="83" column="18" selection-start-line="83" selection-start-column="18" selection-end-line="83" selection-end-column="18" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="1452" max-vertical-offset="2112">
+          <caret line="25" column="15" selection-start-line="25" selection-start-column="15" selection-end-line="25" selection-end-column="15" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/LearnEnumeration.go">
+    <entry file="file://$PROJECT_DIR$/src/LearnArray.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.140625" vertical-offset="188" max-vertical-offset="572">
-          <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+        <state vertical-scroll-proportion="0.94255877" vertical-offset="651" max-vertical-offset="1232">
+          <caret line="46" column="9" selection-start-line="46" selection-start-column="9" selection-end-line="46" selection-end-column="9" />
           <folding />
         </state>
       </provider>
